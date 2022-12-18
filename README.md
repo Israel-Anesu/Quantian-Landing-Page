@@ -1,0 +1,1 @@
+This website is an Ordin Project for Fundamentals of HTML AND CSS.
